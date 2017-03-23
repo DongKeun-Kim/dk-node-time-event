@@ -1,0 +1,5 @@
+{
+  "name": "dk-node-time-event",
+  "main": "lib/timeEmitter.js",
+  "dependencies": {}
+}
